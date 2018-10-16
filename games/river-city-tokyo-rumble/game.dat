@@ -1,0 +1,9 @@
+title = "River City: Tokyo Rumble"
+description = "River City: Tokyo Rumble is an action game developed by Aplus and published by Natsume.\n\nRumble in the Concrete Jungle!\n\nFollow the story of a hot-blooded high school student named Kunio and his good friends. When a nefarious gang moves into Tokyo to try to take it over, it's up to this self-proclaimed \"fighter for justice\" and his buddies to make sure the streets stay safe!"
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000197700"
+region = "usa"
+release_date = "2016-09-27"
